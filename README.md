@@ -1,5 +1,4 @@
-# historic_battle_map
-## Interactive historic battle map - in python!
+# Interactive historic battle map - in python!
 
 Use this app for a unique view of the top 25 battles by cumulative participant count in all of recorded history, including the involved parties and where they took place.
 
